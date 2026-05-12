@@ -41,3 +41,7 @@ O sistema pedirá a mensagem e a sua Chave Pública. A mensagem embaralhada ser�
 python decifrar.py
 ```
 Digite o nome do arquivo (`mensagem.rsa`) e a sua Chave Privada. O programa fará a leitura e exibirá sua mensagem original na tela.
+
+## Referências
+- [Guia de Python para Criptografia](https://gitbook.ganeshicmc.com/criptografia/guia-de-python-para-criptografia)
+- [Monografia - Tatiellen Souza Assis (Matemática Aplicada)](https://imef.furg.br/images/documentos/matematica-aplicada/monografias/2024_Tatiellen_Souza_Assis.pdf)
